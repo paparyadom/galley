@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+logs
+galera.db
+config.cfg
+bin
+lib
+g.py
+pyvenv.cfg
+.idea
